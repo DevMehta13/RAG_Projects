@@ -10,7 +10,6 @@ Welcome to my portfolio of LLM-powered applications! This repository contains a 
 
 *   **Description**: A Retrieval-Augmented Generation (RAG) application built with Streamlit that answers questions about pharmaceutical sciences. Users can upload their own research documents (PDFs) to create a dynamic, private knowledge base.
 *   **Technologies Used**: Python, Streamlit, LangChain, Google Gemini, ChromaDB (Vector DB).
-*   **Status**: ✅ Completed
 *   **To Run This Project**:
     1.  Navigate to the project directory: `PharmaQuery`
     2.  Create and activate a virtual environment.
@@ -21,4 +20,4 @@ Welcome to my portfolio of LLM-powered applications! This repository contains a 
 
 ## Contact
 
-*   **LinkedIn**: [Your LinkedIn Profile URL]
+*   **LinkedIn**: [Dev Mehta](https://www.linkedin.com/in/dev-mehta-a4a408295/)
